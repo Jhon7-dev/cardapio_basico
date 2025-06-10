@@ -1,0 +1,60 @@
+*{
+     font-family: Arial, Helvetica, sans-serif;
+     margin: 0px;
+}
+.principal{
+     display:  block;
+     width: 600px;
+     justify-self:start;
+     padding: 10px;
+     margin: auto;
+}
+p{
+     text-align: justify;
+}
+.cabeca{
+     background: #eaf1ff;
+     width: max-content;
+      
+}
+.titulo{
+    color: #304c81;
+    font-weight: 200;
+    font-style: normal; 
+    font-family: 'Brush Script MT', cursive;
+}
+.subtitulo{
+       font-family: 'Brush Script MT', cursive;
+       font-size: large;
+       font-style: normal;
+           color: #304c81;
+       
+}
+p{
+     color: #3e588b;
+}
+.titulo_cardapio{
+     color: white;
+     background-color: #1f3d76;
+     width: max-content; 
+     justify-self: center;
+     padding: 5px;
+     font-size: 15px;
+     font-family: "Poppins", sans-serif;
+     font-weight: 100;
+     font-style: normal;
+}
+span{
+ display: block;    
+}
+h1,h2,h4{
+     text-align: center;
+}
+p{
+     font-family: 'Montserrat', sans-serif,"Poppins";
+}
+span{
+    font-family: 'Montserrat', sans-serif,"Poppins";
+    font-style: italic;
+
+}
